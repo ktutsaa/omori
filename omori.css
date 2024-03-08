@@ -1,0 +1,16 @@
+@import url('https://github.com/ktutsaa/omori_font/raw/main/discord/OMORI_GAME2.ttf');
+:root{  
+    --font-primary: OMORI_GAME2;
+    --font-display: OMORI_GAME2;
+    --font-headline: OMORI_GAME2;
+    --home-image: url('https://raw.githubusercontent.com/ktutsaa/ktutsaa.github.io/main/discord/main.gif');
+}
+
+div[data-list-item-id="guildsnav___home"] {
+	background: var(--home-image) top center/100% no-repeat;
+}
+#app-mount [data-list-item-id="guildsnav___home"]
+div {
+	color: transparent;
+	background-color: transparent;
+}
