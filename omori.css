@@ -73,8 +73,26 @@ background-color: black;
 .searchBarComponent__22760 {
     background-color: black;
 }
-.content__23cab {
-    background-color: black;
+.animatedContainer__341f6{
+    z-index: 2
+}
+.theme-dark .item__126a6 {
+    border-color: rgb(66, 66, 66);
+}
+.item__126a6.selectorButtonSelected_fbe8fc.selectorButton_c6ae93{
+    background-color: rgb(32, 32, 32)
+}
+.selectorButton_c6ae93:not(.selectorButtonPremiumRequired_ce72d6):hover {
+    background-color: rgb(22, 22, 22);
+}
+.card__7756d{
+    background-color: rgb(15, 15, 15);
+}
+.selectorButton_c6ae93 {
+    background: rgb(8, 8, 8);
+}
+.lookFilled__3dba3.select__0eb48 {
+    background-color: rgb(15, 15, 15);
 }
 .avatarWithText__17e10{
     background-color: black;
@@ -237,11 +255,53 @@ background-color: black;
 .linkTop_eaa673{
     background-color: black;
 }
-.link__95dc0:before {
-background-color: black;
+.modeSelected__487d6 .link__95dc0, .modeSelected__487d6:hover .link__95dc0 {
+    background: black;
+}
+.wrapper__7bcde:hover .link__95dc0{
+    background-color: black;
+}
+.reactionInner__4135b{
+    background-color: black;
+}
+.reaction_fef95b{
+    background-color: black;
 }
 .title_b7d661.container__11d72.themed_b152d4{
 background-color: black;
+}
+.acronym__439d3{
+    background-color: black;
+}
+.theme-dark .expandedInfo__47bad {
+    background-color: black;
+}
+.root_a28985 {
+    background-color: black;
+}
+.lookFilled__19298.colorPrimary__6ed40 {
+    background-color: rgb(22, 22, 22);
+}
+.bodyWrapper__9ca2b{
+    background-color: black;
+}
+.footer__89240 {
+    background-color: black;
+}
+.tooltipContent__79a2d{
+    background-color: black;
+}
+.theme-dark .voiceSectionNoGuildImageWrapper__2cbb8 {
+    background: black;
+}
+.perkRow_bdbcf6{
+    background-color: black;
+}
+.perks__63e5a{
+    background-color: black;
+}
+.theme-dark .tooltipPrimary_e5c00d .tooltipPointer_a79354, .theme-light .tooltipPrimary_e5c00d .tooltipPointer_a79354 {
+    border-top-color: black;
 }
 .iconWrapper__85630{
     background-color: black;
@@ -255,9 +315,7 @@ background-color: black;
 .container__7c79d.clickable__2d589.selected__0b1ad{
     background-color: rgb(0, 0, 0);
 }
-.headerButton__3af9f{
-    background-color: black;
-}
+
 .searchBar_e0c60b{
     background-color: black;
 }
